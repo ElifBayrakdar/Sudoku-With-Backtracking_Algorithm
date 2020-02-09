@@ -1,0 +1,5 @@
+C:\Users\Elif Bayrakdar\Desktop\HackerRank\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Elif Bayrakdar\Desktop\HackerRank\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Elif Bayrakdar\Desktop\HackerRank\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Elif Bayrakdar\Desktop\HackerRank\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Elif Bayrakdar\Desktop\HackerRank\Sudoku\Sudoku\bin\Debug\Sudoku.exe
